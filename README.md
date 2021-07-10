@@ -1,5 +1,5 @@
 # COVID-19 Detection Web
-Web to classify COVID-19 in chest x-ray image using flask API.
+Web to classify COVID-19 in chest x-ray image using flask API Tensorflow Keras CNN model.
 
 ## Documentation
 Dataset from [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
