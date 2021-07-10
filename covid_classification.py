@@ -8,7 +8,7 @@ import os
 IMAGE_SIZE = (150, 150)
 
 def load_model():
-  checkpoint = 'model/model_none.h5'
+  checkpoint = 'directory saved model'
   model = load(checkpoint)
   # (loss, accuracy) = model.evaluate( 
   #     train_generator, verbose=1)
