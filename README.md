@@ -9,7 +9,7 @@ Dataset from [Kaggle COVID-19 Radiography Database](https://www.kaggle.com/tawsi
 python3 -m venv env
 ```
 2. Install Tensorflow, OpenCV, and Flask module
-3. Place your saved model and put its directory in covid_classification.py load_model function
+3. Place your saved Tensorflow model and put its directory in covid_classification.py load_model function
 4. Run Flask API
 ```command
 python3 api.py
