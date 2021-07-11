@@ -4,7 +4,6 @@ import numpy as np
 import cv2
 import os
 
-# hyperparameter
 IMAGE_SIZE = (150, 150)
 
 def load_model():
