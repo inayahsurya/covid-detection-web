@@ -18,7 +18,7 @@ source env/bin/activate
 env\Script\activate
 ```
 3. Install Tensorflow, OpenCV, and Flask module
-4. Place your saved Tensorflow model and put its directory in covid_classification.py load_model function
+4. Place your saved Tensorflow model and put its directory path in covid_classification.py load_model function
 5. Run Flask API
 ```command
 python3 api.py
